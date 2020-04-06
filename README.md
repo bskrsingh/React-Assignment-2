@@ -1,3 +1,4 @@
+<h1>Assignment Details</h1>
 <ol>
           <li>Create an input field (in App component) with a change listener which outputs the length of the entered text below it (e.g. in a paragraph).</li>
           <li>Create a new component (=> ValidationComponent) which receives the text length as a prop</li>
